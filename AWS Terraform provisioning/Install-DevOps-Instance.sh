@@ -32,8 +32,8 @@ sudo ./aws/install
 
 # Configure AWSCLI
 aws configure
-AKIASAC4THNIDWUH73NW
-Wfx0r87tOnHbG7kGJu/ZdikKSLSLLingWIXIQlVD
+ACCESS_KEY
+SECRET_KEY
 us-east-1
 
 # install K8
